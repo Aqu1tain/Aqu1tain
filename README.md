@@ -15,7 +15,7 @@ I started coding with Visual Basic at a young age and haven't stopped since! Now
 ### 🚀 Featured Projects
 
 - **Summit** - A Celeste Map Editor (Open Source)
-- **Cairn** - Module for the Celeste game community (Open Source)
+- **Cairn** - Module for the Summit editor (Open Source)
 - **Business Clicker** - A clicker game built with Python
 - **ProManage** - Academic SaaS for complex task management
 
