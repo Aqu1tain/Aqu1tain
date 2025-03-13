@@ -44,8 +44,8 @@ I started coding with Visual Basic at a young age and haven't stopped since! Now
 
 <div align="center">
   
-![Aqu1tain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqu1tain&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqu1tain&layout=compact&theme=default)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aqu1tain&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqu1tain&layout=compact&theme=default"/>
 
 </div>
 
